@@ -3,3 +3,4 @@
 - [ ] Pasta
 - [ ] Basketball
 - [ ] Yellow
+- [] Some more information
